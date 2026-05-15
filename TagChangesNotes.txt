@@ -13,7 +13,6 @@ x2. Tag 16 became tag 34. Its X/Z coordinates were changed to match tag 13/14. I
 The field image came from ROBOCON and was scaled to work in pathPlanner and merged into the limelight FMAP. 
 
 
-
 robocon specs: https://docs.google.com/document/d/1iSWftc3dqNhgD8CLwjbFPgrg7N3F4hNe2F32m70nGFc/edit?tab=t.0
 
-field image is 0.02094322396m/p
+field image is 0.02094322396m/p or 47.7481404921p/m

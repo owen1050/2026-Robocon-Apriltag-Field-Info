@@ -18,5 +18,5 @@ robocon specs: https://docs.google.com/document/d/1iSWftc3dqNhgD8CLwjbFPgrg7N3F4
 field image is 0.02094322396m/p or 47.7481404921p/m
 
 
-todo: Advantage scope field image
-instructions for pv, ll, path planner, as
+todo:
+instructions for pv, ll, path planner

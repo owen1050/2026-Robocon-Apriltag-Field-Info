@@ -1,8 +1,8 @@
 This has no guarantees, please check all work. 
 
 Changes:
-1. Tag 15 became tag 33. Its X/Z coordinates were changed to match tag 13/14. Its Y coordinate came from (width of field - Y coordinate of 14)
-2. Tag 16 became tag 34. Its X/Z coordinates were changed to match tag 13/14. Its Y coordinate came from (width of field - Y coordinate of 13)
+x1. Tag 15 became tag 33. Its X/Z coordinates were changed to match tag 13/14. Its Y coordinate came from (width of field - Y coordinate of 14)
+x2. Tag 16 became tag 34. Its X/Z coordinates were changed to match tag 13/14. Its Y coordinate came from (width of field - Y coordinate of 13)
 3. Tag 31 became tag 49. Its X/Z coordinates were changed to match tag 29/30. Its Y coordinate came from (width of field - Y coordinate of 30)
 4. Tag 32 became tag 50. Its X/Z coordinates were changed to match tag 29/30. Its Y coordinate came from (width of field - Y coordinate of 29)
 

@@ -16,3 +16,7 @@ The field image came from ROBOCON and was scaled to work in pathPlanner and merg
 robocon specs: https://docs.google.com/document/d/1iSWftc3dqNhgD8CLwjbFPgrg7N3F4hNe2F32m70nGFc/edit?tab=t.0
 
 field image is 0.02094322396m/p or 47.7481404921p/m
+
+
+todo: Advantage scope field image
+instructions for pv, ll, path planner, as

@@ -1,0 +1,13 @@
+This has no guarantees, please check all work. 
+
+Changes:
+1. Tag 15 became tag 33. Its X/Z coordinates were changed to match tag 13/14. Its Y coordinate came from (width of field - Y coordinate of 14)
+2. Tag 16 became tag 34. Its X/Z coordinates were changed to match tag 13/14. Its Y coordinate came from (width of field - Y coordinate of 13)
+3. Tag 31 became tag 49. Its X/Z coordinates were changed to match tag 29/30. Its Y coordinate came from (width of field - Y coordinate of 30)
+4. Tag 32 became tag 50. Its X/Z coordinates were changed to match tag 29/30. Its Y coordinate came from (width of field - Y coordinate of 29)
+
+5. Tags 1-12 had (182.11 - 158 = 24.11") 24.11" or 0.612394 M removed from their X coordinate. 
+6. Tags 17-24 had (24.11" + (287-(262 + 5/8)) 48.485" or 1.231519 M removed from their X coordinates.
+7. Tags 29,30,49,50 had (24.11 * 2 + 24.375) = 72.595" or 1.843913 M removed from their X coordinates.
+
+The field image came from ROBOCON and was scaled to work in pathPlanner and merged into the limelight FMAP. 

@@ -1,0 +1,9 @@
+Before you begin, this is only necessary if you are doing full field multitag localization. If you are just getting offset from the tags on the hub this might not be necessary. 
+
+If you follow these steps, be sure to export your photon vision settings before beginning so you can restore for the future. 
+
+Take the apriltag map file and follow these instructions to upload it to your photonVisionProcesssors: https://docs.photonvision.org/en/v2025.3.1/docs/apriltag-pipelines/multitag.html#updating-the-field-layout
+
+Then in your code, follow this exampple to import the new map from your deploy directory into your pose estimator: https://github.com/owen1050/2026-Robocon-Apriltag-Field-Info/blob/ab0dce5e50d438d3566e21ddb4d27c7e59d5352d/2026RoboconTestWPIProject/src/main/java/frc/robot/Robot.java#L66
+
+After this photon vision full field localization should work. 
